@@ -79,6 +79,6 @@
 
 <div align="left"> 
   <img height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maco-macoo&theme=default" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Sato-Daichi&theme=vue-dark&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=maco-macoo&count_private=true&show_icons=true&theme=compact&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sato-Daichi&theme=vue-dark&layout=compact" />
 </div>

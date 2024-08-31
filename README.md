@@ -16,6 +16,6 @@
 </div>
 
 <div align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=maco-macoo&count_private=true&show_icons=true&theme=dracula" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maco-macoo&layout=compact&theme=dracula" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=maco-macoo&count_private=true&show_icons=true&theme=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maco-macoo&layout=compact&theme=compact" />
 </div>

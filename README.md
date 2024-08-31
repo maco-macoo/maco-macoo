@@ -7,10 +7,10 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="center"> 
-  <img alt="Top Langs" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maco-macoo&theme=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maco-macoo&theme=dracula" />
 </div>
 
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=maco-macoo&theme=light&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maco-macoo&theme=light&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=maco-macoo&theme=light&layout=dracula" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maco-macoo&theme=light&layout=dracula" />
 </div>

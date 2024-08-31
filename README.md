@@ -18,7 +18,7 @@
 
 <p>
   <a href="https://github.com/maco-macoo">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=maco-macoo&count_private=true&show_icons=true&theme=default" />
+  <img align="left" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maco-macoo&theme=default" />
 </a>
 <a href="https://github.com/maco-macoo">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=maco-macoo&count_private=true&show_icons=true&theme=compact" />

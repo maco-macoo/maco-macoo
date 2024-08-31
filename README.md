@@ -7,7 +7,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="center"> 
-  <img alt="Top Langs" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maco-macoo&theme=dracula" />
+  <img alt="Top Langs" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maco-macoo&theme=compact" />
 </div>
 
 <div align="left"> 

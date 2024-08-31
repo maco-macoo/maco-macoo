@@ -10,6 +10,7 @@
 </div>
 
 <div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maco-macoo&theme=default" />
   <!-- GitHub Stats -->
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=maco-macoo&count_private=true&show_icons=true&theme=compact" />
   <!-- Languages -->

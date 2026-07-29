@@ -27,7 +27,7 @@
 
 **Dev / Cloud** — Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude Code, Codex
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,linux,azure,gcp,aws,fastapi,neo4j,claude,openai" alt="Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude, OpenAI" height="40">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,linux,azure,gcp,aws,fastapi,neo4j,claude,chatgpt" alt="Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude, OpenAI" height="40">
 
 ### GitHub Stats
 

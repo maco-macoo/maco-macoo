@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: show_icons=true&hide_border=true&bg_color=00000000&count_private=true
+          options: show_icons=true&hide_border=true&bg_color=00000000&count_private=true&text_color=1f2328
           path: profile/stats-light.svg
           token: ${{ secrets.PAT_1 }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: show_icons=true&hide_border=true&bg_color=00000000&count_private=true&theme=github_dark
+          options: show_icons=true&hide_border=true&bg_color=00000000&count_private=true&theme=github_dark&text_color=e6edf3
           path: profile/stats-dark.svg
           token: ${{ secrets.PAT_1 }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: layout=compact&langs_count=8&hide_border=true&bg_color=00000000&hide=jupyter%20notebook
+          options: layout=compact&langs_count=8&hide_border=true&bg_color=00000000&text_color=1f2328
           path: profile/top-langs-light.svg
           token: ${{ secrets.PAT_1 }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: layout=compact&langs_count=8&hide_border=true&bg_color=00000000&hide=jupyter%20notebook&theme=github_dark
+          options: layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=github_dark&text_color=e6edf3
           path: profile/top-langs-dark.svg
           token: ${{ secrets.PAT_1 }}
 

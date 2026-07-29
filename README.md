@@ -33,13 +33,7 @@
 
 <div align="center">
 
-<a href="#"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-  <img src="./profile/stats-light.svg" alt="GitHub stats" height="165">
-</picture></a>
-<a href="#"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-  <img src="./profile/top-langs-light.svg" alt="Top languages" height="165">
-</picture></a>
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg"><img src="./profile/stats-light.svg" alt="GitHub stats" height="165"></picture></a>
+<a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg"><img src="./profile/top-langs-light.svg" alt="Top languages" height="165"></picture></a>
 
 </div>

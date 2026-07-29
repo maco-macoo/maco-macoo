@@ -19,27 +19,27 @@
 
 **Languages** — Python, C, C++, Java, JavaScript, TypeScript, R, Bash, HTML, CSS
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,javascript,typescript,r,bash,html,css" alt="Python, C, C++, Java, JavaScript, TypeScript, R, Bash, HTML, CSS" height="40">
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,javascript,typescript,r,bash,html,css" alt="Python, C, C++, Java, JavaScript, TypeScript, R, Bash, HTML, CSS" height="40"></a>
 
 **ML / AI** — PyTorch, Hugging Face, scikit-learn, LangChain
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface,sklearn,langchain" alt="PyTorch, Hugging Face, scikit-learn, LangChain" height="40">
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface,sklearn,langchain" alt="PyTorch, Hugging Face, scikit-learn, LangChain" height="40"></a>
 
 **Dev / Cloud** — Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude Code, Codex
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,linux,azure,gcp,aws,fastapi,neo4j,claude,chatgpt" alt="Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude, OpenAI" height="40">
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,linux,azure,gcp,aws,fastapi,neo4j,claude,chatgpt" alt="Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude, OpenAI" height="40"></a>
 
 ### GitHub Stats
 
 <div align="center">
 
-<picture>
+<a href="#"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
   <img src="./profile/stats-light.svg" alt="GitHub stats" height="165">
-</picture>
-<picture>
+</picture></a>
+<a href="#"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
   <img src="./profile/top-langs-light.svg" alt="Top languages" height="165">
-</picture>
+</picture></a>
 
 </div>

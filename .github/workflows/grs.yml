@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: layout=compact&langs_count=8&hide_border=true&bg_color=00000000
+          options: layout=compact&langs_count=8&hide_border=true&bg_color=00000000&hide=jupyter%20notebook
           path: profile/top-langs-light.svg
           token: ${{ secrets.PAT_1 }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=github_dark
+          options: layout=compact&langs_count=8&hide_border=true&bg_color=00000000&hide=jupyter%20notebook&theme=github_dark
           path: profile/top-langs-dark.svg
           token: ${{ secrets.PAT_1 }}
 

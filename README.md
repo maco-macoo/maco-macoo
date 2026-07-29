@@ -34,12 +34,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=maco-macoo&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark">
-  <img src="https://github-stats-extended.vercel.app/api?username=maco-macoo&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub stats" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img src="./profile/stats-light.svg" alt="GitHub stats" height="165">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=maco-macoo&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=github_dark">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maco-macoo&layout=compact&langs_count=8&hide_border=true&bg_color=00000000" alt="Top languages" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <img src="./profile/top-langs-light.svg" alt="Top languages" height="165">
 </picture>
 
 </div>

@@ -2,8 +2,7 @@
 
 # Hi, I'm maco-macoo 👋
 
-**AI Engineer** — M1, Graduate School of Informatics, Nagoya University
-Working on NLP research and machine learning competitions.
+**M1 student at Nagoya University**
 
 🔗 **Full profile & portfolio → [maco-macoo.github.io](https://maco-macoo.github.io/)**
 
@@ -18,17 +17,17 @@ Working on NLP research and machine learning competitions.
 
 ### Tech Stack
 
-**Languages**
+**Languages** — Python, C, C++, Java, JavaScript, TypeScript, R, Bash, HTML, CSS
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,r,bash,html,css" alt="Languages" height="40">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,javascript,typescript,r,bash,html,css" alt="Python, C, C++, Java, JavaScript, TypeScript, R, Bash, HTML, CSS" height="40">
 
-**ML / AI** — + Hugging Face, LangChain
+**ML / AI** — PyTorch, Hugging Face, scikit-learn, LangChain
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="ML and AI" height="40">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface,sklearn,langchain" alt="PyTorch, Hugging Face, scikit-learn, LangChain" height="40">
 
-**Dev / Cloud**
+**Dev / Cloud** — Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude Code, Codex
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,azure,gcp,aws,fastapi" alt="Dev and Cloud" height="40">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,linux,azure,gcp,aws,fastapi,neo4j,claude,openai" alt="Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude, OpenAI" height="40">
 
 ### GitHub Stats
 

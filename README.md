@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm maco-macoo 👋
+# Hi, I'm Makoto Sato 👋
 
 **M1 student at Nagoya University**
 

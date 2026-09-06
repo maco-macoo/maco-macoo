@@ -15,8 +15,6 @@
 
 </div>
 
-### GitHub Stats
-
 <div align="center">
 
 <a href="#"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg"><img src="./profile/stats-light.svg" alt="GitHub stats" height="165"></picture></a>

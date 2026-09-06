@@ -15,20 +15,6 @@
 
 </div>
 
-### Tech Stack
-
-**Languages** — Python, C, C++, Java, JavaScript, TypeScript, R, Bash, HTML, CSS
-
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,javascript,typescript,r,bash,html,css" alt="Python, C, C++, Java, JavaScript, TypeScript, R, Bash, HTML, CSS" height="40"></a>
-
-**ML / AI** — PyTorch, Hugging Face, scikit-learn, LangChain
-
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface,sklearn,langchain" alt="PyTorch, Hugging Face, scikit-learn, LangChain" height="40"></a>
-
-**Dev / Cloud** — Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude Code, Codex
-
-<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,docker,linux,azure,gcp,aws,fastapi,neo4j,claude,chatgpt" alt="Git, GitHub, GitHub Actions, Docker, Linux, Azure, Google Cloud, AWS, FastAPI, Neo4j, Claude, OpenAI" height="40"></a>
-
 ### GitHub Stats
 
 <div align="center">
